@@ -1,0 +1,8 @@
+nodeMCU		Display
+3V		VDD
+G		GND
+D8		CS
+D7		SDA
+D5		SCK
+D2		RES
+D1		DC
